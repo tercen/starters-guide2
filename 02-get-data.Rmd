@@ -5,9 +5,9 @@ The data set for this guide is available online as a git hub repository.
 
 * Go the file at the following git hub address:
 
-https://raw.githubusercontent.com/tercen/starters-guide2/master/data/crabs_longformat.csv
+(https://raw.githubusercontent.com/tercen/starters-guide2/master/data/crabs_longformat.csv)
 
-* Right Click and select `Save as...`
+* Right click and select `Save as...`
 
 Save your data on your desktop. Use the default name (it should be `crabs_longformat.csv`).
 
