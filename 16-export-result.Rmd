@@ -1,0 +1,31 @@
+# Export results
+In this section you export the results to another table. 
+
+
+* Click on the `crabs workflow` page
+* Right click on the `PCA` step and choose `Add`
+* Select the `Export` step
+* Drag the new `Export` step to the right
+
+Your workflow should look like:
+
+![](images/workflow_with_export.png)
+
+
+* Right click on the `Export` step and select `Run`
+
+It has now a green status. It has exported as data to `my project` 
+
+![](images/workflow_with_export_run.png)
+
+* Go to the `my project` page by clicking it on the top bar
+
+![](images/my_project_before_refresh.png)
+
+* Refresh the browser page either using `F5` or the refresh icon on the browser
+
+![](images/my_project_after_refresh.png)
+
+You notice the new `crabs workflow-Export` entry, this is exported results
+
+You can download the data by clicking the download icon beside it. It is also available as a Tercen **Table** (i.e. data set) and can be used by other workflows.
