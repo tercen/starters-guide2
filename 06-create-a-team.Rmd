@@ -5,14 +5,11 @@ In this section you create a team ("my team") in Tercen.
     + site-library
     + test-team
 
-
 ![](images/home_team.png)
 
 * On the home page (once logged in) click on the `Create a team`
 
-* Enter "my team" in the `Name` and click `OK`
-![](images/create_team.png)
-
+* Enter `my team` in the `Name` and click `OK`
 
 * You see an entry `my team` on the Tercen home page.
 
