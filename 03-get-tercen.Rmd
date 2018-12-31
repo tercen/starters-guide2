@@ -7,9 +7,9 @@ To download Tercen you require to:
 
 (https://drive.google.com/drive/folders/1NKsu1vRqC8jhDn3aF3qINi0Bq-_cMNCu?usp=sharing)
 
-* Download the Tercen setup called `Tercen Setup 0.X.Y.exe` 
+* Download the latest version of Tercen setup called `Tercen Setup 0.X.Y.exe` 
 
-Where `X` and`Y` in the file name represents the version numbers. These are changing as we enhance the product. Download the current version in this folder. 
+Where `X` and`Y` in the file name represents the version numbers. These are changing as we enhance the product. Download the latest version of Tercen in this folder. 
 
 
 You have now downloaded Tercen.
