@@ -3,11 +3,11 @@ In this section you retrieve some example data from the Internet. This data is u
 
 The data set for this guide is available online as a git hub repository. 
 
-* Go the file at the following git hub address:
+* Go the file, by clicking on the following git hub address:
 
 (https://raw.githubusercontent.com/tercen/starters-guide2/master/data/crabs_longformat.csv)
 
-* Right click and select `Save as...`
+* Once it opens, right click and select `Save as...`
 
 Save your data on your desktop. Use the default name (it should be `crabs_longformat.csv`).
 
