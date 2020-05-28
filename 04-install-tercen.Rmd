@@ -4,7 +4,7 @@ Before installation, check the operating system you have are using. Presently, t
 
 The default installation directory is `C:\Tercen` folder.
 
-* Run the installer (e.g. `Tercen Setup 0.1.4.exe`)
+* Do not Run the installer (e.g. `Tercen Setup 0.1.4.exe`)
 
 * Choose the installation options
 
